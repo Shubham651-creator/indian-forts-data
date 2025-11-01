@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "code": "ajinkyatara",
+    "name_en": "Ajinkyatara",
+    "name_mr": "अजिन्क्यतारा",
+    "district": "Satara",
+    "latitude": 17.9300,
+    "longitude": 73.9900,
+    "short_desc_en": "Hill fort near Satara...",
+    "short_desc_mr": "सातारा जवळील टेकडीवर असलेले किल्ला...",
+    "image": "https://Shubham651-creator.github.io/indian-forts-data/images/fort_0001.jpeg"
+  },
+  {
+    "id": 2,
+    "code": "torna",
+    "name_en": "Torna",
+    "name_mr": "टोर्ना",
+    "district": "Pune",
+    "latitude": 18.1667,
+    "longitude": 73.6667,
+    "short_desc_en": "Torna is famous for...",
+    "short_desc_mr": "टोर्ना हे प्रसिद्ध आहे...",
+    "image": "https://Shubham651-creator.github.io/indian-forts-data/images/fort_0001.jpeg"
+  }
+]
